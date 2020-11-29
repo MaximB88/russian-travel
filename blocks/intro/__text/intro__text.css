@@ -1,0 +1,6 @@
+.intro__text {
+    line-height: 26px;
+    font-size: 16px;
+    grid-template-columns: min-content;
+    margin: 0;
+}

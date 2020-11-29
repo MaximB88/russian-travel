@@ -1,0 +1,5 @@
+.lead__image_position_background {
+    max-width: 100%;
+    grid-row: 1/6;
+    grid-column: 1/4;
+}

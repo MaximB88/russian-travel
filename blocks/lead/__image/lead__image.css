@@ -1,0 +1,10 @@
+.lead__image {
+    display: grid;
+    max-width: 100%;
+}
+
+@media screen and (max-width: 1023px) {
+    .lead__image {
+        max-width: 100%;
+    }
+}

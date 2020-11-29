@@ -1,0 +1,8 @@
+.lead__image_position_front {
+    max-width: 100%;
+    z-index: 1;
+    grid-row: 2/3;
+    grid-column: 1/4;
+    align-self: center;
+    justify-self: center;
+}
