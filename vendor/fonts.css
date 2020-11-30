@@ -8,11 +8,12 @@
     src: url('./InterWeb/Inter-Bold.woff2') format('woff2'),
          url('./InterWeb/Inter-Bold.woff') format('woff');
     font-family: 'Inter';
-    font-weight: bold;
+    font-weight: 700;
 }
 
 @font-face {
     src: url('./InterWeb/Inter-Black.woff2') format('woff2'),
          url('./InterWeb/Inter-Black.woff') format('woff');
-    font-family: 'Inter-Black';
+    font-family: 'Inter';
+    font-weight: 900;
 }
