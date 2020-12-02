@@ -1,10 +1,10 @@
 .place__website {
     align-self: end;
     justify-self: start;
-    padding-bottom: 48px;
+    padding-bottom: 45px;
 }
 
-@media screen and (max-width: 767px) {
+@media screen and (max-width: 425px) {
     .place__website {
         display: none;
     }

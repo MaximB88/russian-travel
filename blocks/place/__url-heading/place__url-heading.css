@@ -3,4 +3,7 @@
     line-height: 1.0;
     color: #aaaaaa;
     margin: 0;
+    letter-spacing: 0.2em;
+    text-transform: uppercase;
+    padding-bottom: 14px;
 }

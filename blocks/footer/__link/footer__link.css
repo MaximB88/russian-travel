@@ -1,4 +1,4 @@
-.footer__links-container_link {
+.footer__link {
     color: white;
     text-decoration: none;
     margin-right: 18px;
@@ -6,16 +6,18 @@
     font-size: 16px;
 }
 
-.footer__links-container_link:last-of-type {
+.footer__link:last-of-type {
     margin: 0;
 }
 
-.footer__links-container_link:hover {
+.footer__link_link:hover {
     opacity: 0.8;
 }
 
 @media screen and (max-width: 767px) {
-    .footer__links-container_link {
+    .footer__link {
         margin-bottom: 32px;
+        line-height: 24px;
+        font-size: 24px;
     }
 }
