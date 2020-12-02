@@ -3,4 +3,11 @@
     margin: 0;
     padding: 0;
     list-style: none;
+    padding-top: 18px;
+}
+
+@media screen and (max-width:767px) {
+    .header__links-container {
+        padding-top: 14px;
+    }
 }
